@@ -1,0 +1,7 @@
+{
+  "name": "Qontak Omnichannel CMS",
+  "description": "A professional WhatsApp-style chat interface for managing Qontak Omnichannel conversations, featuring real-time message views, room management, and contact history.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
